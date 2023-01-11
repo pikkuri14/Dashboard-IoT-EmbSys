@@ -66,7 +66,7 @@ function App() {
       <h1 className='flex justify-center items-center text-3xl'>Project Sistem Tertanam</h1>
       <div>
 
-        <div className='flex justify-center items-center h-screen py-0'>
+        <div className='flex justify-center items-center h-screen py-0 '>
           
           <div className='flex'>
             <Cards data={user.user2} photo={Oktarisa}/>
